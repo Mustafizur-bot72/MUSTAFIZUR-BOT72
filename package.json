@@ -1,10 +1,10 @@
 {
 
-  "name": "NAYAN-WHATSAPP-BOT",
+  "name": "MUSTAFIZUR-WHATSAPP-BOT",
 
   "version": "1.0.5",
 
-  "description": "WhatsApp Bot Created by Mohammad Nayan",
+  "description": "WhatsApp Bot Created by Mustafizur Rahman",
 
   "main": "index.js",
 
@@ -34,21 +34,21 @@
 
     "whatsappbots",
 
-    "nayanbot",
+    "mustafizurbot",
 
-    "nayan-bot",
+    "mustafizur-bot",
 
-    "nayan-bot-github",
+    "mustafizur-bot-github",
 
-    "nayan-bot-md",
+    "Mustafizur-bot-md",
 
-    "nayanbot-whatsapp-bot",
+    "mustafizurbot-whatsapp-bot",
 
     "github-whatsapp-bot"
 
   ],
 
-  "author": "Mohammad Nayan",
+  "author": "Mustafizur Rahman",
 
   "license": "ISC",
 
